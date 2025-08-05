@@ -49,7 +49,7 @@
 
 ## 📁 Highlight Projects
 
-### 🔹 [School Medical Management System](https://github.com/BaoHuy-Dev/projectX)
+### 🔹 [School Medical Management System](https://github.com/lpaxxa/School_Medical_Management_System)
 > A web-based system to manage student health records, vaccine history, and medicine delivery.
 
 - Built with: Java, Spring Boot, JPA, SQL Server, RESTful API
