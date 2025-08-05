@@ -7,7 +7,7 @@
 
 ## 📌 About Me
 
-- 💻 I'm currently a final-year student majoring in **Software Engineering** at **FPT University** (GPA 3.35/4).
+- 💻 I'm currently a final-year student majoring in **Software Engineering** at **FPT University** (GPA 3.55/4).
 - 🔍 Passionate about **Java Backend**, software architecture, and clean coding principles.
 - 🚀 Aiming to become a **Senior Java Developer** in the next 3–5 years.
 - 🤝 Currently seeking internship opportunities to grow and contribute to real-world projects.
