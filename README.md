@@ -13,6 +13,17 @@
 - 🤝 Currently seeking internship opportunities to grow and contribute to real-world projects.
 
 ---
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-2A2A2A?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## 💼 Technical Skills
 
@@ -26,6 +37,15 @@
 - **Other:** RESTful API, MVC, Maven
 
 ---
+
+## 📊 GitHub Stats
+
+<!-- Total GitHub Stats -->
+![BaoHuy-Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaoHuy-Dev&show_icons=true&theme=tokyonight)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaoHuy-Dev&layout=compact&theme=tokyonight)
+
 
 ## 📁 Highlight Projects
 
