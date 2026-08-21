@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Nguyen%20Quoc%20Bao%20Huy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fresher%20Java%20Backend%20Developer%20%7C%20Spring%20Boot%20Enthusiast&descAlignY=58&descSize=18"/>
 
-<h1 align="center">Hi 👋, I'm Nguyễn Quốc Bảo Huy</h1>
+<h1 align="center">Hi, I'm Nguyễn Quốc Bảo Huy</h1>
 
 <h3 align="center">
   Fresher Java Backend Developer • Spring Boot Enthusiast • FPT University
